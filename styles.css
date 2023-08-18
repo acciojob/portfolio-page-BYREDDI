@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+#img-tag
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:30%;
+}
+#image-name
+{
+	text-align:center;
+}
